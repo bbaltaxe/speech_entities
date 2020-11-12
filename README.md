@@ -22,3 +22,11 @@ example usage:
 outputs all entities (untagged) to `entities.txt`
 
 outputs transcribed audio to `transcribe.txt`
+
+
+### Acknowledgements
+Big shout out to Google's demo code. This repo is primarily a mashup of the following two example files: 
+
+https://github.com/googleapis/python-language/blob/master/samples/v1/language_entities_text.py
+
+https://github.com/googleapis/python-speech/blob/master/samples/snippets/transcribe.py
